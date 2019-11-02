@@ -33,6 +33,6 @@ The user will be greeted with a main menu. <Br />
 
 **The tips page will display:** <Br />
 - Helpful tips for reducing energy consumption <Br />
+<br />
 
-
-
+**Contributor(s): tsa87, augusin11**
