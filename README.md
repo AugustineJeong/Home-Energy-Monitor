@@ -1,5 +1,16 @@
 # SFU-Engineering-Competition
 
+**Install:**
+pip install plotly <Br />
+pip install PySimpleGUI <Br />
+pip install requests <Br />
+pip install datetime <Br />
+
+**run:**
+gui.py <Br />
+<Br />
+<Br />
+
 This is a program that helps the user monitor their electricity usage. <Br />
 <Br />
 
