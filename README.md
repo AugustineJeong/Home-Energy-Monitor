@@ -1,12 +1,12 @@
 # SFU-Engineering-Competition
 
-**Install:**
+**Install:** <Br />
 pip install plotly <Br />
 pip install PySimpleGUI <Br />
 pip install requests <Br />
 pip install datetime <Br />
 
-**run:**
+**run:** <Br />
 gui.py <Br />
 <Br />
 <Br />
