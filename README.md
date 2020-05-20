@@ -46,4 +46,4 @@ The user will be greeted with a main menu. <Br />
 - Helpful tips for reducing energy consumption <Br />
 <br />
 
-**Contributors: tsa87, augusin11**
+**Contributors: tsa87, AugustineJeong**
