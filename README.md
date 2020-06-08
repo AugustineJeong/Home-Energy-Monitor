@@ -1,4 +1,4 @@
-# SFU-Engineering-Competition
+# Home Energy Monitor (SFU Engineering Competition)
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/14143525/84022787-b3078300-a93b-11ea-891a-1d7d67bb1712.png" width="350">
