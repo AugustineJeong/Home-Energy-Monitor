@@ -32,5 +32,9 @@ def usage_breakdown(usages):
 # test
 # hi
 # hey!!!!!!!!!!!!-sub_sub
+<<<<<<< HEAD
 # master was
 # new change to master
+=======
+# sub
+>>>>>>> sub_sub
